@@ -1,0 +1,26 @@
+
+<!-- Start of mad lib script !-->
+
+<xml>
+
+-ro <!-- ReadOnly tag !-->
+
+<madlibTitle="Sample1">
+<line1_lib1>"___________! he said ________ as he jumped into his convertible</line1_lib1>
+<line1_lib1_guide1>exclamation           adverb</line1_lib1_guide1>
+<break><blankLine></blankLIne></break>    
+<line2_lib1>______ and drove off with his _________ wife."</line2_lib1>
+<line2_lib1_guide1>noun                         adjective</line2_lib1_guide1>
+</madlibTitle>
+
+-solution(1) <!-- Solution 1 tag, for the first solution)
+
+<madlibTitle="Sample1">
+<line1_lib1>"Ouch! he said stupidly as he jumped into his convertible</line1_lib1>
+<line2_lib1>cat and drove off with his brave wife."</line2_libe1>
+
+</xml>
+
+.solution+lib/*-path-unavailable-; <!-- Not yet function: allows for more than 1 solution !-->
+
+<!-- End of mad lib script !-->
